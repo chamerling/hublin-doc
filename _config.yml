@@ -2,8 +2,8 @@
 # Site
 
 title: Hubl.in Documentation
-url: "https://openpaas.github.io/hublin-doc"
-repository: "linagora/hublin-doc.git"
+url: "https://chamerling.github.io/hublin-doc"
+repository: "chamerling/hublin-doc.git"
 baseurl:
 google_analytics_key:
 show_full_navigation: true
